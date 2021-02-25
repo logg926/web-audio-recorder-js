@@ -1,4 +1,4 @@
 require('./lib-minified/WebAudioRecorder.min');
 require('./lib-minified/WebAudioRecorderMp3.min');
-require('./lib-minified/Mp3LameEncoder.min.js.mem.min');
+require('./lib-minified/Mp3LameEncoder.min.js.mem');
 module.exports = 'WebAudioRecorder';
